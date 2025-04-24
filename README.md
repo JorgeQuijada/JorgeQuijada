@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">Mi nombre es Jorge Quijada, en estoy momentos me encuentro estudiando para ser un desarrollador Full Stack Java y poder incursionar en el mundo de la programación y creación de paginas web</p>
+<p align="center">Mi nombre es Jorge Quijada, complete un curso como desarrollador full stack, en estos momentos me encuentro fomentando mis conocimientos</p>
 
 ###
 
